@@ -1,0 +1,14 @@
+.me {
+    margin: 0 40px;
+    padding: 100px 200px;
+    background-color: #faedcd;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.lily {
+    width: 200px;
+    height: 265px;
+    border-radius: 40%;
+}
